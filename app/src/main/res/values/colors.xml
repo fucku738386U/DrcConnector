@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pure_black">#FF000000</color>
+    <color name="dark_surface">#FF0A0A0A</color>
+    <color name="dark_surface_variant">#FF141414</color>
+    <color name="accent_red">#FFFF3333</color>
+    <color name="accent_red_dim">#99FF3333</color>
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#FFB0B0B0</color>
+    <color name="text_tertiary">#FF707070</color>
+    <color name="border">#FF222222</color>
+    <color name="success_green">#FF00E676</color>
+    <color name="warning_orange">#FFFFAB40</color>
+</resources>
